@@ -1,1 +1,1 @@
-# agile_teams_productivity_stability_factors
+# Agile software development teams producivity stability factors (analysis)
